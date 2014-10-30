@@ -6,7 +6,7 @@
   "license": "MIT",
   "main": "lib/index.js",
   "dependencies": {
-    "node-multimarkdown": "~0.0.15",
+    "mmd": "~4.4.4",
     "debug": "~0.7.4"
   },
   "devDependencies": {
