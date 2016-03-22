@@ -2,7 +2,7 @@
   "name": "metalsmith-multimarkdown",
   "description": "A Metalsmith plugin to convert Markdown files using MultiMarkdown syntax. Liberal inspiration taken from markdown plugin by segment.io",
   "repository": "git://github.com/mgnt/metalsmith-multimarkdown.git",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "license": "MIT",
   "main": "lib/index.js",
   "dependencies": {
