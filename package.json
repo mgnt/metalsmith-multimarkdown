@@ -6,7 +6,7 @@
   "license": "MIT",
   "main": "lib/index.js",
   "dependencies": {
-    "mmd": "git://github.com/mgnt/node-mmd.git",
+    "mmd": "~4.7.1",
     "debug": "~0.7.4"
   },
   "devDependencies": {
